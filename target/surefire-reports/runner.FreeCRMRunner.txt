@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: runner.FreeCRMRunner
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.424 s - in runner.FreeCRMRunner
